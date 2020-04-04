@@ -58,6 +58,8 @@ To build the source you will need to install JDK {jdkversion}.
 Spring Cloud uses Maven for most build-related activities, and you
 should be able to get off the ground quite quickly by cloning the
 project you are interested in and typing
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 
 ----
 $ ./mvnw install
